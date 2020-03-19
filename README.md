@@ -13,4 +13,7 @@ So it could be something like this:
 ```bash
 mysqldump -u root -p mydatabase > /home/myuser/database-dump.sql
 ```
-
+And for single table, use this:
+```bash
+mysqldump -u root -p mydatabase table_name > /home/myuser/database-dump.sql
+```

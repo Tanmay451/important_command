@@ -1,0 +1,5 @@
+## Requirements creation in python
+pip freeze > requirements.txt
+
+## Requirements install in python
+pip install -r requirements.txt

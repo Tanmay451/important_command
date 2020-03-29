@@ -18,6 +18,8 @@ npm i
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 # To run the project
-```
 npm run start
-```
+
+# Source
+https://docs.npmjs.com/creating-node-js-modules
+https://www.quora.com/What-is-an-NPM-start

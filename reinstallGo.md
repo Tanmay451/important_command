@@ -33,3 +33,9 @@ export PATH=$PATH:/usr/local/go/bin # write into file
 ## source
 #### https://askubuntu.com/questions/742078/uninstalling-go-golang
 #### https://golang.org/doc/install?download=go1.14.1.linux-amd64.tar.gz
+
+
+## With snap (for latest version)
+```
+sudo snap install go --classic
+```
